@@ -1,0 +1,7 @@
+name = Nood.org Biolife
+description = Nood.org Biolife theme full site package.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+files[] = biolife.profile
