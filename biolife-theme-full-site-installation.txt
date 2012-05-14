@@ -1,0 +1,25 @@
+Installation guide for Biolife Drupal theme full site setup.
+
+The installation is fast and simple allowing you to have your site up and running within minutes.
+
+1. Extract file downloaded from github on your web server. Put the whole contents of biolife-drupal folder to server root (alternatively you can put all files from inside biolife-drupal to server root).
+
+The server root folder to extract the files to depends on the type of server you are using. Some typical locations would be:
+- XAMPP on Windows: C:\xampp\htdocs\
+- AppServ on Windows: C:\Appserv\www\
+- MAMP on OSX: Applications/MAMP/htdocs/
+- WebServer on Linux: /home/user/public_html/
+
+2. Create a new database through phpMyAdmin/MySQL configuration utility.
+
+3. In the browser go to your domain/subdomain/folder: http:// localhost/biolife-drupal if you are using a local server and http:// example.com/biolife-drupal if you are using a remote installation.
+
+4. In “Select an installation profile” choose Nood.org Biolife and click "Save and continue."
+
+5. The default language in this profile is English, so click "Save and continue."￼
+
+6. Configure your database entering the name of the database you created earlier (i. 2 above) and other required details. Click "Save and continue" to begin the installation process.
+
+7. On the next page configure your site information filling the respective fields and click "Save and continue."
+
+8. And here is your site. Now you can start replacing the sample content with your own.
